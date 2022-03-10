@@ -5,7 +5,8 @@
 
 
 <h3> Also experienced as a principal consultant to the project team members, Consumer Support/ Customer success manager, Information Systems Auditor, specializing in Scaled Agile Methodologies, LSS processes, IT General Controls Reviews, SOX compliance reviews across the diversified industry. Specialized experience in testing IT General Controls of Operating Systems, Databases and various management components. </h3>
-## 
+
+##
 
 
 
