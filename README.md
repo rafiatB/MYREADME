@@ -29,7 +29,7 @@
 
 ◾Proficient in providing IT solutions for varied issues.<br>
 
-◾Proficient in Jira,SAFe,ITIL4,ClickUp, Kanban, Monday, Notion, Microsoft word, Microsoft Excel, PowerPoint, SQL, VMware and Linux.<br>
+◾Proficient in Jira, SAFe, ITIL4, ClickUp, Kanban, Monday, Notion, Microsoft word, Microsoft Excel, PowerPoint, SQL, VMware and Linux.<br>
 
 
 
