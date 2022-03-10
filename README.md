@@ -10,7 +10,7 @@
 
 
 ### AREAS OF EXPERTISE
-◾Electronic Medical Report Implementation (EMR) Specialist. Supported various end users in adaption to new health systems.
+◾Electronic Medical Report Implementation (EMR) Specialist. Supported various end users in adaption to new health systems. <br>
 ◾Skilled at Service Design, Customer & User-experience Research, User Stories, Case Studies, Focus groups, Surveys, A/B Testing, Motivational Interviewing, Behavioral,      Ergonomics, Occupational Evaluations, Interventions & Mental Health assessments.
 ◾Highly Proficient in the following Epic modules: ClinDoc, ASAP, Ambulatory and Cerner etc.
 - Highly Proficient in the following Cerner Modules: Soarian Systems, Cerner Millennium Power chart, CPOE, Rad-Net, Surgi-Net, Path-net.
