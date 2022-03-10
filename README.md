@@ -11,15 +11,15 @@
 
 ### AREAS OF EXPERTISE
 ◾Electronic Medical Report Implementation (EMR) Specialist. Supported various end users in adaption to new health systems. <br>
-◾Skilled at Service Design, Customer & User-experience Research, User Stories, Case Studies, Focus groups, Surveys, A/B Testing, Motivational Interviewing, Behavioral,      Ergonomics, Occupational Evaluations, Interventions & Mental Health assessments.
-◾Highly Proficient in the following Epic modules: ClinDoc, ASAP, Ambulatory and Cerner etc.
-- Highly Proficient in the following Cerner Modules: Soarian Systems, Cerner Millennium Power chart, CPOE, Rad-Net, Surgi-Net, Path-net.
-- Operational experience in accessing and improving healthcare practices & software.
-- Excellent at Team building, People, Time, Risk and Budget management.
-- Skilled at Data Analysis, Product Testing, Identifying Program Errors, Technical Errors, Problem-Solving and Troubleshooting.
-- Effective Facilitation, Coaching, Written and Communication skills.
-- Proficient in providing IT solutions for varied issues.
-- Proficient in Jira, ClickUp, Kanban, Monday, Notion, Microsoft word, Microsoft Excel, PowerPoint, SQL, VMware and Linux.
+◾Skilled at Service Design, Customer & User-experience Research, User Stories, Case Studies, Focus groups, Surveys, A/B Testing, Motivational Interviewing, Behavioral,      Ergonomics, Occupational Evaluations, Interventions & Mental Health assessments.<br>
+◾Highly Proficient in the following Epic modules: ClinDoc, ASAP, Ambulatory and Cerner etc.<br>
+◾Highly Proficient in the following Cerner Modules: Soarian Systems, Cerner Millennium Power chart, CPOE, Rad-Net, Surgi-Net, Path-net.<br>
+◾Operational experience in accessing and improving healthcare practices & software.<br>
+◾Excellent at Team building, People, Time, Risk and Budget management.<br>
+◾Skilled at Data Analysis, Product Testing, Identifying Program Errors, Technical Errors, Problem-Solving and Troubleshooting.<br>
+◾Effective Facilitation, Coaching, Written and Communication skills.<br>
+◾Proficient in providing IT solutions for varied issues.<br>
+◾Proficient in Jira, ClickUp, Kanban, Monday, Notion, Microsoft word, Microsoft Excel, PowerPoint, SQL, VMware and Linux.<br>
 
 
 
